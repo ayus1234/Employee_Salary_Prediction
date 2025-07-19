@@ -91,9 +91,11 @@ Below are the key features demonstrated with screenshots of the app:
 
 ---
 
-### 🌐 Demo
+## 🌐 Live Demo
 
-🔗 Live Demo
+🔗 [Employee Salary Classification App](https://employeesalaryprediction-zymcnzdci6rswwrhpvj5za.streamlit.app/)  
+
+Click the link above to try out the app directly in your browser.
 
 ---
 
