@@ -47,23 +47,47 @@ Below are the key features demonstrated with screenshots of the app:
 
 ### 🏠 Streamlit App Home Page
 
-![App Home Page](screenshots/app_home_page.png)
+<img width="1365" height="632" alt="Screenshot 2025-07-19 231653" src="https://github.com/user-attachments/assets/df049480-8b42-40b4-8eb8-695f4720b6ee" />
+
+---
 
 ### 📂 Training Dataset Upload & Preview
 
-![Dataset Upload](screenshots/dataset_upload.png)
+<img width="1365" height="625" alt="Screenshot 2025-07-19 231801" src="https://github.com/user-attachments/assets/2cacb71d-de1b-432f-85ee-84fd89e52a6f" />
+
+---
+
+<img width="1365" height="632" alt="Screenshot 2025-07-19 231820" src="https://github.com/user-attachments/assets/45b4e61b-d711-4d34-b4ae-5c2ebe0a2305" />
+
+---
+
+<img width="1365" height="635" alt="Screenshot 2025-07-20 001735" src="https://github.com/user-attachments/assets/7f1198f4-ee71-413a-8ba2-5cf25d5ad5b4" />
+
+---
 
 ### 👤 Dynamic Employee Detail Input & Prediction Result
 
-![Single Prediction](screenshots/single_prediction.png)
+<img width="1365" height="632" alt="Screenshot 2025-07-20 001937" src="https://github.com/user-attachments/assets/ac9c7837-c88d-47ad-b778-8dfa3d4ba9a0" />
+
+---
+
+<img width="1365" height="632" alt="Screenshot 2025-07-20 002115" src="https://github.com/user-attachments/assets/d26b32a2-0d5c-4e30-89b4-a3df3454db16" />
+
+---
 
 ### 📊 Batch Prediction Upload & Result Download
 
-![Batch Prediction](screenshots/batch_prediction.png)
+<img width="1365" height="632" alt="Screenshot 2025-07-20 003359" src="https://github.com/user-attachments/assets/f6614048-ff7b-43d2-9a17-9819a2dfe0d7" />
+
+---
+
+<img width="1365" height="632" alt="Screenshot 2025-07-20 003556" src="https://github.com/user-attachments/assets/3d72db50-b34a-4a76-a499-2a7e0211ebb4" />
+
+---
 
 ### 🎯 Model Training Accuracy Shown
 
-![Model Accuracy](screenshots/model_accuracy.png)
+<img width="1365" height="633" alt="Screenshot 2025-07-20 003204" src="https://github.com/user-attachments/assets/31fcf6fc-a56e-4524-9f5a-3f102d8f9b30" />
 
 ---
 
