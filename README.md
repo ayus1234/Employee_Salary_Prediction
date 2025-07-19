@@ -29,3 +29,54 @@ A Streamlit web app to classify employee salaries as `>50K` or `<=50K` based on 
    ```bash
    git clone https://github.com/<your-username>/employee-salary-classification.git
    cd employee-salary-classification
+
+2. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. **Run the app:**
+    ```bash
+    streamlit run app.py
+    ```
+    
+---
+
+## 📸 Results & Screenshots
+Below are the key features demonstrated with screenshots of the app:
+
+### 🏠 Streamlit App Home Page
+
+![App Home Page](screenshots/app_home_page.png)
+
+### 📂 Training Dataset Upload & Preview
+
+![Dataset Upload](screenshots/dataset_upload.png)
+
+### 👤 Dynamic Employee Detail Input & Prediction Result
+
+![Single Prediction](screenshots/single_prediction.png)
+
+### 📊 Batch Prediction Upload & Result Download
+
+![Batch Prediction](screenshots/batch_prediction.png)
+
+### 🎯 Model Training Accuracy Shown
+
+![Model Accuracy](screenshots/model_accuracy.png)
+
+---
+
+### 🌐 Demo
+
+🔗 Live Demo
+
+---
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and submit pull requests.
