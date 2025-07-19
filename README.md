@@ -93,7 +93,7 @@ Below are the key features demonstrated with screenshots of the app:
 
 ## 🌐 Live Demo
 
-🔗 [Employee Salary Classification App](https://employeesalaryprediction-zymcnzdci6rswwrhpvj5za.streamlit.app/)  
+🔗 [Employee Salary Classification App](https://employeesalaryprediction-b4uhqye5py7l49vw5jc95g.streamlit.app/)  
 
 Click the link above to try out the app directly in your browser.
 
