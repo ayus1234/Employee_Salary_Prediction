@@ -1,4 +1,4 @@
-# 💼 Employee Salary Classification
+# 💼 Employee Salary Prediction
 
 A Streamlit web app to classify employee salaries as `>50K` or `<=50K` based on demographic and employment attributes. This project is designed to assist HR departments and organizations with salary trend analysis and decision-making.  
 
