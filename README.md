@@ -47,13 +47,13 @@ Below are the key features demonstrated with screenshots of the app:
 
 ### 🏠 Streamlit App Home Page
 
-<img width="1365" height="632" alt="Screenshot 2025-07-19 231653" src="https://github.com/user-attachments/assets/df049480-8b42-40b4-8eb8-695f4720b6ee" />
+<img width="1365" height="631" alt="Screenshot 2025-07-20 004932" src="https://github.com/user-attachments/assets/e2e682b6-744d-4378-851a-db228c10740c" />
 
 ---
 
 ### 📂 Training Dataset Upload & Preview
 
-<img width="1365" height="625" alt="Screenshot 2025-07-19 231801" src="https://github.com/user-attachments/assets/2cacb71d-de1b-432f-85ee-84fd89e52a6f" />
+<img width="1365" height="633" alt="Screenshot 2025-07-20 005216" src="https://github.com/user-attachments/assets/274004a7-4af9-4ce3-bf48-2718b5c80290" />
 
 ---
 
